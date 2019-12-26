@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz-Kotlin</string>
+    <string name="quiz">QUIZ !</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+</resources>
